@@ -57,7 +57,7 @@ Selecione o nome criado no passo 9.
 ![image](https://github.com/user-attachments/assets/ac8f85cc-59f8-4d1b-a433-f49f7bb3440d)
 
 
-## Doc de Referência - Lab Microsoft
+## Documento de Referência - Laboratório Microsoft
 
 https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html
 
